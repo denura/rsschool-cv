@@ -1,1 +1,0 @@
-https://denura.github.io/rsschool-cv/cv
