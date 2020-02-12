@@ -1,2 +1,1 @@
-# rsschool-cv
-HTML, CSS &amp; Git Basics
+https://denura.github.io/rsschool-cv/cv
